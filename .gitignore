@@ -52,3 +52,6 @@ bench.txt
 
 # coverage
 coverage.*
+
+# binary
+/codecov
